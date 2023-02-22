@@ -1,47 +1,13 @@
 {
-  "employees": [
-    {
-      "id": 1,
-      "name": "q1",
-      "salary": "typicode",
-      "active": "true"
-    },
-    {
-      "id": 2,
-      "name": "q1",
-      "salary": "ffff",
-      "active": "false"
-    },
-    {
-      "id": 3,
-      "name": "q3",
-      "salary": "rrrrrrrr",
-      "active": "true"
-    },
-    {
-      "name": "alex",
-      "role": "hr",
-      "active": "true",
-      "id": 4
-    },
-    {
-      "name": "alex",
-      "role": "hr",
-      "active": "true",
-      "id": 5
-    },
-    {
-      "name": "alex",
-      "role": "hr",
-      "active": "true",
-      "id": 6
-    },
-    {
-      "name": "11111111",
-      "role": "hr",
-      "active": "true",
-      "id": 7
-    }
-  ],
-  "comments": []
+  "users": [
+      {
+          "id":1,
+          "title":"hello",
+          "isCompleted":false
+      }, {
+          "id":2,
+          "title":"hello2",
+          "isCompleted":false
+      }
+  ]
 }
